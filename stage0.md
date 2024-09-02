@@ -10,14 +10,12 @@ Supervised learning is a fundamental technique in machine learning where algorit
 
 **Applications of Supervised Learning in Oncology**
 
-One prominent application of supervised learning in oncology is in the classification of cancers. For instance, deep learning models are increasingly used to predict melanoma by analyzing images of moles. These models are trained on large datasets of skin images that are labeled as either benign or malignant. By learning features such as asymmetry, border irregularity, color variation, and diameter, the models can predict whether a new image of a mole is likely to be cancerous<sup>1</sup>.On platforms like LinkedIn, such advancements are often highlighted to showcase how supervised learning models can achieve high accuracy in detecting melanomas, demonstrating their potential impact on public health by facilitating early cancer detection<sup>2</sup>.
+One prominent application of supervised learning in oncology is in the classification of cancers. For instance, deep learning models are increasingly used to predict melanoma by analyzing images of moles. These models are trained on large datasets of skin images that are labeled as either benign or malignant. By learning features such as asymmetry, border irregularity, color variation, and diameter, the models can predict whether a new image of a mole is likely to be cancerous<sup>1</sup>. On platforms like LinkedIn, such advancements are often highlighted to showcase how supervised learning models can achieve high accuracy in detecting melanomas, demonstrating their potential impact on public health by facilitating early cancer detection<sup>2</sup>.
 
  
-
 Beyond melanoma detection, supervised learning has broader applications in oncology. It plays a crucial role in predicting treatment outcomes by analyzing patient data. For instance, deep neural networks have been used to predict responses to immunotherapy based on immunological profiles<sup>3</sup>. This capability enables more personalized and effective care. Additionally, supervised learning algorithms help classify different types of cancer based on molecular characteristics. A notable example is the use of gene expression profiling to identify subtypes of diffuse large B-cell lymphoma<sup>4</sup>. This classification improves diagnosis and helps in selecting appropriate treatments.
 
  
-
 Moreover, supervised learning aids in identifying novel biomarkers associated with cancer. For example, analysis of gene expression profiles has led to the identification of distinct breast cancer subtypes<sup>5</sup>. This is critical for understanding cancer development and progression.
 
  
