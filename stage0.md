@@ -1,5 +1,6 @@
 **Supervised Learning**
-
+  
+authors: @Justine  
  
 
 **Introduction**
