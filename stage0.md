@@ -36,14 +36,14 @@ In conclusion, supervised learning has proven to be an invaluable tool in cancer
 
 **References:**
 
-<!--[if !supportLists]-->1.     <!--[endif]-->Esteva, A., Kuprel, B., Novoa, R. A., et al. (2017). Dermatologist-level classification of skin cancer with deep neural networks. Nature, 542(7639), 115-118.
+<!--[if !supportLists]-->1.     <!--[endif]-->Esteva, A., Kuprel, B., Novoa, R. A., et al. (2017). Dermatologist-level classification of skin cancer with deep neural networks. Nature, 542(7639), 115-118.  
 
-<!--[if !supportLists]-->2.     <!--[endif]-->Haenssle, H. A., Fink, C., Schneiderbauer, R., et al. (2018). Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists. Annals of Oncology, 29(8), 1836-1842.
+<!--[if !supportLists]-->2.     <!--[endif]-->Haenssle, H. A., Fink, C., Schneiderbauer, R., et al. (2018). Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists. Annals of Oncology, 29(8), 1836-1842.  
 
-<!--[if !supportLists]-->3.     <!--[endif]-->Wang, S., Yang, X., Zhang, X., et al. (2019). Predicting the response to immunotherapy based on immunological profiles using deep neural networks. Journal of Immunotherapy, 42(5), 195-204.
+<!--[if !supportLists]-->3.     <!--[endif]-->Wang, S., Yang, X., Zhang, X., et al. (2019). Predicting the response to immunotherapy based on immunological profiles using deep neural networks. Journal of Immunotherapy, 42(5), 195-204.  
 
-<!--[if !supportLists]-->4.     <!--[endif]-->Alizadeh, A. A., Eisen, M. B., Davis, R. E., et al. (2000). Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling. Nature, 403(6769), 503-511.
+<!--[if !supportLists]-->4.     <!--[endif]-->Alizadeh, A. A., Eisen, M. B., Davis, R. E., et al. (2000). Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling. Nature, 403(6769), 503-511.  
 
-<!--[if !supportLists]-->5.     <!--[endif]-->Hoadley, K. A., Yau, C., Wolf, D. M., et al. (2014). Multiplatform analysis of 12 cancer types reveals molecular classification within and across tissues of origin. Cell, 158(4), 929-944.
+<!--[if !supportLists]-->5.     <!--[endif]-->Hoadley, K. A., Yau, C., Wolf, D. M., et al. (2014). Multiplatform analysis of 12 cancer types reveals molecular classification within and across tissues of origin. Cell, 158(4), 929-944.  
 
 <!--[if !supportLists]-->6.     <!--[endif]-->Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. Science, 366(6464), 447-453.
